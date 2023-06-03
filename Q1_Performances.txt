@@ -1,0 +1,12 @@
+Given an ArraySize of 2048 Merge Sort Performance in Gflops is 3149.606 Gflop/s
+Given an ArraySize of 2048 Quick Sort Performance in Gflops is 49.386 Gflop/s
+
+Given an ArraySize of 8192 Merge Sort Performance in Gflops is 593.296 Gflop/s
+Given an ArraySize of 8192 Quick Sort Performance in Gflops is 5.157 Gflop/s
+
+Given an ArraySize of 32768 Merge Sort Performance in Gflops is 75.171 Gflop/s
+Given an ArraySize of 32768 Quick Sort Performance in Gflops is 0.482 Gflop/s
+
+Given an ArraySize of 131072 Merge Sort Performance in Gflops is 20.051 Gflop/s
+Given an ArraySize of 131072 Quick Sort Performance in Gflops is 0.035 Gflop/s
+
